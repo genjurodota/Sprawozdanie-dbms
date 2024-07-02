@@ -10,3 +10,6 @@
 [submodule "source/Bezpieczenstwo"]
 	path = source/Bezpieczenstwo
 	url = https://github.com/Hairi43/Bezpieczenstwo.git
+[submodule "source/MonitDiagnostyka"]
+	path = source/MonitDiagnostyka
+	url = https://github.com/genjurodota/MonitDiagnostyka.git
