@@ -1,0 +1,12 @@
+[submodule "source/kontrola-i-konserwacja"]
+	path = source/kontrola-i-konserwacja
+	url = https://github.com/wsnowicki/kontrola-i-konserwacja.git
+[submodule "source/Konfiguracja-bazy-danych"]
+	path = source/Konfiguracja-bazy-danych
+	url = https://github.com/Albandon/Konfiguracja-bazy-danych.git
+[submodule "source/Wydajnosc-skalowanie-i-replikacja"]
+	path = source/Wydajnosc-skalowanie-i-replikacja
+	url = https://github.com/Qwerex56/Wydajnosc-skalowanie-i-replikacja.git
+[submodule "source/Bezpieczenstwo"]
+	path = source/Bezpieczenstwo
+	url = https://github.com/Hairi43/Bezpieczenstwo.git
