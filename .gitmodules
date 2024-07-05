@@ -13,3 +13,6 @@
 [submodule "source/MonitDiagnostyka"]
 	path = source/MonitDiagnostyka
 	url = https://github.com/genjurodota/MonitDiagnostyka.git
+[submodule "source/Sprzet-dla-bazy-danych"]
+	path = source/Sprzet-dla-bazy-danych
+	url = https://github.com/Kitkacy/Sprzet-dla-bazy-danych.git
