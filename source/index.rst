@@ -16,6 +16,8 @@ Welcome to Sprawozdanie Bazy Danych's documentation!
    kontrola-i-konserwacja/source/kontrola-i-konserwacja
    Wydajnosc-skalowanie-i-replikacja/source/Wydajnosc-skalowanie-i-replikacja
    Bezpieczenstwo/source/Bezpieczenstwo
+   Aplikacja_klient
+   Aplikacja_serwer
 
 Indices and tables
 ==================
